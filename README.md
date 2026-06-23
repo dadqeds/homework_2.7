@@ -8,4 +8,4 @@ go run .
 
 ### 2. Проверить логин и пароль
 
-go run . <email> <password>
+go run . email "password"
